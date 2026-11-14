@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Approved Valeting Ltd",
+  "description": "Mobile valeting and detailing specialists. From exterior valets to full details, ceramic coatings, machine polishing, caravan cleaning and jet washing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
